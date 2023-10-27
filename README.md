@@ -1,10 +1,6 @@
-# pwo-lab01
-Praktyka wytwarzania oprogramowania, laboratorium 1
+# Praktyka wytwarzania oprogramowania
+- [x] Laboratorium 1
+- [x] [Laboratorium 2](https://github.com/kwierzbowski/pwo-lab02)
+- [x] [Laboratorium 3](https://github.com/kwierzbowski/pwo-lab03)
+- [x] [Laboratorium 4](https://github.com/kwierzbowski/pwo-lab04)
 
-# pwo-lab02
-Praktyka wytwarzania oprogramowania, laboratorium 2:
-https://github.com/kwierzbowski/pwo-lab02
-
-# pwo-lab03
-Praktyka wytwarzania oprogramowania, laboratorium 3:
-https://github.com/kwierzbowski/pwo-lab03
