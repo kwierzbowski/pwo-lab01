@@ -6,3 +6,4 @@
 - [x] [Laboratorium 5](https://github.com/kwierzbowski/pwo-lab05)
 - [x] [Laboratorium 6](https://github.com/kwierzbowski/pwo-lab06)
 - [x] [Laboratorium 7](https://github.com/kwierzbowski/pwo-lab07)
+- [x] [Laboratorium 8](https://github.com/kwierzbowski/pwo-lab08)
